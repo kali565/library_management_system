@@ -40,9 +40,9 @@ The Library Management System is a web application designed to help libraries ma
     Visit `http://localhost:8000` in your web browser.
 
 ## Usage
--To access the admin interface, go to http://localhost:8000/admin and log in with the superuser credentials.
--Regular users can log in to borrow and return books using their credentials.
--Admins can manage books, users, and borrowings through the admin interface.
+- To access the admin interface, go to http://localhost:8000/admin and log in with the superuser credentials.
+- Regular users can log in to borrow and return books using their credentials.
+- Admins can manage books, users, and borrowings through the admin interface.
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
