@@ -18,4 +18,4 @@ The Library Management System is a web application designed to help libraries ma
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/library-management-system](https://github.com/kali565/library_management_system).git
+   git clone https://github.com/kali565/library_management_system.git
